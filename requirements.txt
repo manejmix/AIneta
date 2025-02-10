@@ -1,0 +1,6 @@
+chardet==5.2.0
+fastapi==0.115.8
+python-dotenv==1.0.1
+Requests==2.32.3
+uvicorn==0.34.0
+jinja2==3.0.3

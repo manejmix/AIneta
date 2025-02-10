@@ -1,0 +1,14 @@
+[
+
+    {
+        "IMAP_SERVER": "IMAP_SERVER",
+        "IMAP_PORT": 993,
+        "SMTP_SERVER": "SMTP_SERVER",
+        "SMTP_PORT": 587,
+        "EMAIL_ACCOUNT": "EMAIL_ACCOUNT",
+        "EMAIL_PASSWORD": "EMAIL_PASSWORD",
+        "PROMPT": ""
+    }
+
+
+]
